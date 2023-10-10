@@ -1,5 +1,5 @@
 ---
-title: "My first Post
+title: "My first Post"
 date: 2023-10-09
 ---
 Today is horrible and Jozy sucks
